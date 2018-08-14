@@ -1,0 +1,29 @@
+.st0{
+    fill:none;
+    stroke:#000000;
+    stroke-miterlimit:10;
+    stroke-width: 4px;
+}
+
+
+.Start{
+    stroke:green;
+    stroke-miterlimit:10;
+    stroke-width:4px;
+    stroke-linejoin: round;
+}
+
+
+.End{
+    stroke:red;
+    stroke-miterlimit:10;
+    stroke-width:4px;
+    stroke-linejoin: round;
+}
+
+.road{
+    stroke:purple;
+    stroke-miterlimit:10;
+    stroke-width:4px;
+    stroke-linejoin: round;
+}
